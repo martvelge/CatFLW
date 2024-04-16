@@ -1,7 +1,7 @@
 # CatFLW 😻
 `Cat Facial Landmarks in the Wild (CatFLW)` dataset contains 2079 images of cats' faces in various environments and conditions, annotated with 48 facial landmarks and a bounding box on the cat’s face.
 
-You can download the `CatFLW` dataset from [Kaggle](https://www.kaggle.com/datasets/georgemartvel/catflw/data?select=CatFLW+2).
+You can download the `CatFLW` dataset from [![Kaggle](https://img.shields.io/badge/Kaggle-blue?style=flat&logo=Kaggle)]([https://www.kaggle.com/yourprofile](https://www.kaggle.com/datasets/georgemartvel/catflw/data)).
 
 Some examples from the dataset:
 ![](/good_cats.png)
