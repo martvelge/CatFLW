@@ -1,7 +1,7 @@
 # CatFLW 😻
-**Cat Facial Landmarks in the Wild (CatFLW)** dataset contains 2079 images of cats' faces in various environments and conditions, annotated with 48 facial landmarks and a bounding box on the cat’s face.
+`Cat Facial Landmarks in the Wild (CatFLW)` dataset contains 2079 images of cats' faces in various environments and conditions, annotated with 48 facial landmarks and a bounding box on the cat’s face.
 
-You can download the CatFLW dataset from [Drive](https://drive.google.com/drive/folders/1U9kgnHgUZXYugAKMIhEdxCuJZVWrhMql?usp=share_link).
+You can download the `CatFLW` dataset from [Google Drive](https://drive.google.com/drive/folders/1U9kgnHgUZXYugAKMIhEdxCuJZVWrhMql?usp=share_link).
 
 Some examples from the dataset:
 ![](/good_cats.png)
@@ -16,7 +16,7 @@ Images in the dataset are in .png format. Landmarks and bbox coordinates are in 
 
 ## References
 
-If you use the CatFLW, please cite the [dataset paper](https://arxiv.org/abs/2305.04232):
+If you use the `CatFLW`, please cite the [dataset paper](https://arxiv.org/abs/2305.04232):
 
 ```
 @article{martvel2023catflw,
