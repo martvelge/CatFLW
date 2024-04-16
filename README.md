@@ -8,7 +8,7 @@ Some examples from the dataset:
 
 ## Scheme
 
-The 48 cat facial landmarks were introduced in [Finka et al.](https://www.nature.com/articles/s41598-019-46330-5) and were specifically chosen for their relationship with underlying musculature and relevance to cat-specific facial Action Units ([CatFACS](https://animalfacs.com/catfacs_new)).
+The 48 cat facial landmarks were introduced in [Finka et al.](https://www.nature.com/articles/s41598-019-46330-5) and were specifically chosen for their relationship with underlying musculature and relevance to cat-specific facial Action Units ([CatFACS](https://animalfacs.com/catfacs_new)). You can find more details in the [dataset paper](https://arxiv.org/abs/2305.04232).
 
 ## Format
 
