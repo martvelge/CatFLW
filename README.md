@@ -14,6 +14,21 @@ The 48 cat facial landmarks were introduced in [Finka et al.](https://www.nature
 
 Images in the dataset are in .png format. Landmarks and bbox coordinates are in .json files, containing the _labels_ (48,2) and _bounding_boxes_ (4,) fields. Bounding boxes use (x_1, y_1, x_2, y_2) format.
 
+```
+CatFLW/
+│
+├── images/
+│ ├── 00000001_000.png
+│ │ ...
+│ └── CAT_01_00000184_024.png
+└── labels/ 
+  ├── 00000001_000.json
+  │ ├── "labels" # (48,2)
+  │ └── "bounding_boxes" # (x_1, y_1, x_2, y_2)
+  │ ...
+  └── CAT_01_00000184_024.json 
+```
+
 ## References
 
 If you use the `CatFLW`, please cite the [dataset paper](https://arxiv.org/abs/2305.04232):
