@@ -25,7 +25,6 @@ If you use the CatFLW, please cite the [dataset paper](https://arxiv.org/abs/230
   journal={arXiv preprint arXiv:2305.04232},
   year={2023}
 }
-
 ```
 
 You can also check out the [landmark detection paper](https://link.springer.com/article/10.1007/s11263-024-02006-w) and compare the detection performance:
@@ -39,7 +38,6 @@ You can also check out the [landmark detection paper](https://link.springer.com/
   year={2024},
   publisher={Springer}
 }
-
 ```
 
 ## Contributions and Acknowledgements
