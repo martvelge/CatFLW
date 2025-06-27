@@ -56,3 +56,7 @@ You can also check out the [landmark detection paper](https://link.springer.com/
 ## Contributions and Acknowledgements
 
 The dataset was created by [Tech4Animals Lab](https://www.tech4animals.org) and supported by the [Data Science Research Center](https://dsrc.haifa.ac.il/?playlist=1d7a133&video=c6e22b5) at the University of Haifa. We thank Ephantus Kanyugi for his contribution to data annotation and management and Yaron Yossef for his technical support.
+
+## License
+This dataset is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License.
+https://creativecommons.org/licenses/by-nc/4.0/
